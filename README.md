@@ -78,82 +78,82 @@
     </tr>
     <tr>
       <td> بازی </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/52543/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> مقسوم‌علیه‌های دردسرساز </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/33045/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> جاده کشی </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/2637/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> لکنت </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/2530/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> مسابقه‌ی آسان </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/2439/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> شرکت‌های هرمی در برره </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/10169/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> حدس عدد </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/2596/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> !کم ارزشترین رقم 9 نیست </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/3411/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> چیدمان </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/2534/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> دایره عجیب </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/34081/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> زینی </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/33023/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> محاسبه </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/52545/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> رمز </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/17902/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> رامین و مسئله‌ی ریاضی </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/102261/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> مستطیل بد </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/3541/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
       <td> صدف فلزی </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
+      <td><a href="https://quera.org/problemset/6581/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
 </table>
