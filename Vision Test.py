@@ -1,0 +1,5 @@
+n = int(input())
+s1 = input()
+s2 = input()
+result = sum(map(lambda x: x[0] != x[1], zip(s1, s2)))
+print(result)
