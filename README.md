@@ -1,2 +1,8 @@
-# 10-Quera-Exercises-Python-
-10 Python programming exercises on Quera!
+<center>
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+
+</center>
