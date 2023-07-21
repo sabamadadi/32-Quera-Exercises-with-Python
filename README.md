@@ -87,37 +87,37 @@
     <tr>
       <td> بازی </td>
       <td><a href="https://quera.org/problemset/52543/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Game.py"> A </a></td>
     </tr>
     <tr>
       <td> مقسوم‌علیه‌های دردسرساز </td>
       <td><a href="https://quera.org/problemset/33045/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Nuisance Factors.py"> A </a></td>
     </tr>
     <tr>
       <td> جاده کشی </td>
       <td><a href="https://quera.org/problemset/2637/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Road Construction.py"> A </a></td>
     </tr>
     <tr>
       <td> لکنت </td>
       <td><a href="https://quera.org/problemset/2530/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Stuttering.py"> A </a></td>
     </tr>
     <tr>
       <td> مسابقه‌ی آسان </td>
       <td><a href="https://quera.org/problemset/2439/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Easy Competition.py"> A </a></td>
     </tr>
     <tr>
       <td> شرکت‌های هرمی در برره </td>
       <td><a href="https://quera.org/problemset/10169/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Pyramid Schemes in Barareh.py"> A </a></td>
     </tr>
     <tr>
       <td> حدس عدد </td>
       <td><a href="https://quera.org/problemset/2596/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Guess the Number.py"> A </a></td>
     </tr>
     <tr>
       <td> !کم ارزشترین رقم 9 نیست </td>
@@ -163,5 +163,10 @@
       <td> صدف فلزی </td>
       <td><a href="https://quera.org/problemset/6581/"> Q </a></td>
       <td><a href="Metallic Shell.py"> A </a></td>
+    </tr>
+  <tr>
+      <td> کمک به کاپی </td>
+      <td><a href="https://quera.org/problemset/8838/"> Q </a></td>
+      <td><a href="Assistance with Copying.py"> A </a></td>
     </tr>
 </table>
