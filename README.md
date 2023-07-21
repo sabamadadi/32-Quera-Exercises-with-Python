@@ -43,38 +43,38 @@
     </tr>
     <tr>
       <td> سوال برنامه نویسی برنامه نویسی سوال </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/3408/"> Q </a></td>
+      <td><a href="Programming Question Question Programming.py"> A </a></td>
     </tr>
     <tr>
       <td> سوال نفس‌گیر </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/26651/"> Q </a></td>
+      <td><a href="Breath-taking Question.py"> A </a></td>
     </tr>
     <tr>
       <td> تست بینایی </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/2659/"> Q </a></td>
+      <td><a href="Vision Test.py"> A </a></td>
     </tr>
     <tr>
       <td> !آخ جون طرف نیست </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/3538/"> Q </a></td>
+      <td><a href="Akh Joon the Person Is Not Available!.py"> A </a></td>
     </tr>
     <tr>
       <td> جمع بزرگان </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/2551/"> Q </a></td>
+      <td><a href="The Sum of the Elders.py"> A </a></td>
     </tr>
     <tr>
       <td> یک ساعت </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/2886/"> Q </a></td>
+      <td><a href="One Hour.py"> A </a></td>
     </tr>
     <tr>
       <td> ام‌سین </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/28947/"> Q </a></td>
+      <td><a href="M S.py"> A </a></td>
     </tr>
     <tr>
       <td> بازی </td>
