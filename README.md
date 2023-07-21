@@ -1,5 +1,9 @@
 #### All codes have received a perfect score of 100 out of 100! (Just for additional programming practice!)
 
+<p align="center">
+  <img src="Pic.png" width="width_value" height="height_value">
+</p>
+
 <table>
     <tr>
       <td> فاکتوریل </td>
@@ -114,46 +118,46 @@
     <tr>
       <td> !کم ارزشترین رقم 9 نیست </td>
       <td><a href="https://quera.org/problemset/3411/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="The Least Significant Digit Is Not 9.py"> A </a></td>
     </tr>
     <tr>
       <td> چیدمان </td>
       <td><a href="https://quera.org/problemset/2534/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Arrangement.py"> A </a></td>
     </tr>
     <tr>
       <td> دایره عجیب </td>
       <td><a href="https://quera.org/problemset/34081/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Strange Circle.py"> A </a></td>
     </tr>
     <tr>
       <td> زینی </td>
       <td><a href="https://quera.org/problemset/33023/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Periodic.py"> A </a></td>
     </tr>
     <tr>
       <td> محاسبه </td>
       <td><a href="https://quera.org/problemset/52545/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Calculation.py"> A </a></td>
     </tr>
     <tr>
       <td> رمز </td>
       <td><a href="https://quera.org/problemset/17902/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Code.py"> A </a></td>
     </tr>
     <tr>
       <td> رامین و مسئله‌ی ریاضی </td>
       <td><a href="https://quera.org/problemset/102261/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Ramin & the Math Problem.py"> A </a></td>
     </tr>
     <tr>
       <td> مستطیل بد </td>
       <td><a href="https://quera.org/problemset/3541/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Parallelogram.py"> A </a></td>
     </tr>
     <tr>
       <td> صدف فلزی </td>
       <td><a href="https://quera.org/problemset/6581/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="Metallic Shell.py"> A </a></td>
     </tr>
 </table>
