@@ -38,8 +38,8 @@
     </tr>
     <tr>
       <td> هندونه‌خوری </td>
-      <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
-      <td><a href="One-digit.py"> A </a></td>
+      <td><a href="https://quera.org/problemset/35253/"> Q </a></td>
+      <td><a href="Watermelon-eating.py"> A </a></td>
     </tr>
     <tr>
       <td> سوال برنامه نویسی برنامه نویسی سوال </td>
@@ -57,7 +57,7 @@
       <td><a href="One-digit.py"> A </a></td>
     </tr>
     <tr>
-      <td> آخ جون طرف نیست! </td>
+      <td> !آخ جون طرف نیست </td>
       <td><a href="https://quera.org/problemset/3539/"> Q </a></td>
       <td><a href="One-digit.py"> A </a></td>
     </tr>
